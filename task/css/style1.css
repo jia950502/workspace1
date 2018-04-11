@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    list-style: none;
+}
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+.wrapper ul {
+
+}
+.wrapper ul li{
+    width: 29%;
+    float: left;
+    padding-bottom: 29%;
+    background: #FFA600;
+    margin: 2%;
+    border-radius: 5%;
+}
